@@ -1,0 +1,2 @@
+# mumpits
+Discord Music Bot
